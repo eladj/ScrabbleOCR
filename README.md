@@ -12,11 +12,11 @@ In this repository there are 3 implementations:
 Basic Algorithm
 ---------------
 
-    1. Detect the outer frame of the board according to its red color, using HSV color coordinates. ![HSV image](/images/scrabble_img2.jpg)
-    2. Find the 4 corners of the board and arrange them by order.
-    3. Apply perspective transformation to compensate the camera view angle. ![Board detection](/images/scrabble_img2.jpg)
-    4. Detect each tile square and decide if it is empty or have a letter on it, by looking on the STD or gradients strength. 
-    5. For each letter we found, we call the Tesseract optical character recongnition.
+1. Detect the outer frame of the board according to its red color, using HSV color coordinates. ![HSV image](/images/scrabble_img2.jpg)
+2. Find the 4 corners of the board and arrange them by order.
+3. Apply perspective transformation to compensate the camera view angle. ![Board detection](/images/scrabble_img2.jpg)
+4. Detect each tile square and decide if it is empty or have a letter on it, by looking on the STD or gradients strength. 
+5. For each letter we found, we call the Tesseract optical character recongnition.
 
 Screenshots
 -----------
