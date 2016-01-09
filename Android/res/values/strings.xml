@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player3">Player 3</string>
+    <string name="player4">Player 4</string>
+    <string name="btn_end_turn">End Turn</string>
+    <string name="btn_take_picture">Take Picture</string>
+    <string name="board_text">0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0</string>
+    <string name="info_text">Info</string>
+    <string name="image_heading">Board Image</string>
+    <string name="board_heading">Board State</string>
+    <string name="board_content_text">Current image of board</string>
+</resources>
